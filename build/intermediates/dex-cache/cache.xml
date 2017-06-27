@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Tools\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\kks\Programming\Android\wifiScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_b470e12847954979c068af4ed42b1e1b90cf9924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kks\Programming\Android\wifiScanner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba07b517ae5ae32e83071a5fecb242e9bed870b2">
+        <dex dex="C:\Users\kks\Programming\Android\wifiScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eaec3b2fb7bf5d919fff555d3f1c9f6b71e96d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Tools\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\kks\git\android-apps\wifiScanner\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_b470e12847954979c068af4ed42b1e1b90cf9924.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kks\Programming\Android\wifiScanner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\kks\Programming\Android\wifiScanner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_dffe817d27e2025e34d3498aaacddaab2e6870b1\classes.dex" />
+    </item>
+
+</items>
