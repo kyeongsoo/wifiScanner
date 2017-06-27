@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\kks\\git\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

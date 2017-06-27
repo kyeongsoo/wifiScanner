@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "outputFile": "C:\\Users\\kks\\git\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

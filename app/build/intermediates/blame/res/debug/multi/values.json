@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\kks\\git\\wifiScanner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 266
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 319
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,7 +107,7 @@
                     "endOffset": 610
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -128,7 +128,7 @@
                     "endOffset": 770
                 },
                 "from": {
-                    "file": "C:\\Users\\kks\\git\\android-apps\\wifiScanner\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "C:\\Users\\kks\\git\\wifiScanner\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
